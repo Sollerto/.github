@@ -36,6 +36,16 @@ Our standard license is the [PolyForm Noncommercial License 1.0.0](https://polyf
 | 💸 Selling it | ❌ Nay |
 | ✂️ Stripping our name from it | ❌ Nay |
 
+To see the licenses of any package we use, go to the CMD and enter:
+```
+<filename>.exe --licenses
+```
+E.g.
+```
+STCheat-REPO.exe --licenses
+```
+
+
 ## 🌐 Official distribution
 
 > **Our only distributor is our own website: [sollerto.de](https://sollerto.de)**
